@@ -1,0 +1,6 @@
+.venv/
+.env
+output/
+__pycache__/
+*.pyc
+make_table_image.py
